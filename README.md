@@ -1,6 +1,7 @@
 # Hello-World
 Test Repository, experimenting Git
 
-# Lustige Testdatei
-# Funktioniert "Commit changes"?
-# 
+Ich habe immer gesagt es funktioniert nur teilweise
+-12
+
+Deshalb Testen
